@@ -1,0 +1,32 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThegLibc/hexlet-js.git"
+  },
+  "author": "ThegLibc",
+  "keywords": [
+    "npm"
+  ],
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ThegLibc/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/ThegLibc/hexlet-js#readme"
+}
